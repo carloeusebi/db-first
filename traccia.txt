@@ -1,0 +1,3 @@
+Modellizzare la struttura di una tabella per memorizzare tutti i dati riguardanti delle auto usate messe in vendita da un concessionario.
+Cerchiamo di immedesimarci nel contesto e di immaginare le colonne di una tabella auto e i relativi tipi di dato e attributi.
+Potete usare quel che volete ad esempio Excel, Google Fogli, Drawio e caricare poi lo screenshot con l'immagine della vostra tabella, oppure usare un file di testo semplice o markdown
